@@ -11,7 +11,7 @@ https://links.fortinet.com/forticlient/win/vpnagent
 Usuario VPN :  Maforsa_dmafor8
 
 Contraseña : Jh\M2fL>X]F38T3*h?xvaf
-
+172.17.0.3
  
 
 Configuración del cliente VPN
